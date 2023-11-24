@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Royalbengaltiger/static/css/main.1bbb51ab.css",
-    "main.js": "/Royalbengaltiger/static/js/main.f82f7114.js",
+    "main.js": "/Royalbengaltiger/static/js/main.ae2d3930.js",
     "static/js/787.6486b64c.chunk.js": "/Royalbengaltiger/static/js/787.6486b64c.chunk.js",
     "static/media/production_id_5079225 (1080p).mp4": "/Royalbengaltiger/static/media/production_id_5079225 (1080p).aba75798cda5e30ad6ea.mp4",
     "static/media/2.png": "/Royalbengaltiger/static/media/2.a662988a2007dfe05d14.png",
@@ -23,11 +23,11 @@
     "static/media/1.png": "/Royalbengaltiger/static/media/1.ee394d1d870764b36d9c.png",
     "index.html": "/Royalbengaltiger/index.html",
     "main.1bbb51ab.css.map": "/Royalbengaltiger/static/css/main.1bbb51ab.css.map",
-    "main.f82f7114.js.map": "/Royalbengaltiger/static/js/main.f82f7114.js.map",
+    "main.ae2d3930.js.map": "/Royalbengaltiger/static/js/main.ae2d3930.js.map",
     "787.6486b64c.chunk.js.map": "/Royalbengaltiger/static/js/787.6486b64c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bbb51ab.css",
-    "static/js/main.f82f7114.js"
+    "static/js/main.ae2d3930.js"
   ]
 }
