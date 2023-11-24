@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Royalbengaltiger/static/css/main.1bbb51ab.css",
+    "main.js": "/Royalbengaltiger/static/js/main.3cc729cc.js",
+    "static/js/787.6486b64c.chunk.js": "/Royalbengaltiger/static/js/787.6486b64c.chunk.js",
+    "static/media/production_id_5079225 (1080p).mp4": "/Royalbengaltiger/static/media/production_id_5079225 (1080p).aba75798cda5e30ad6ea.mp4",
+    "static/media/2.png": "/Royalbengaltiger/static/media/2.a662988a2007dfe05d14.png",
+    "static/media/4.png": "/Royalbengaltiger/static/media/4.92a0657ad60368b9530c.png",
+    "static/media/3.png": "/Royalbengaltiger/static/media/3.24cd0ae7657ae747b33a.png",
+    "static/media/7.png": "/Royalbengaltiger/static/media/7.2de6754659659e490bce.png",
+    "static/media/5.png": "/Royalbengaltiger/static/media/5.acf24d00f4e9bd0b3f39.png",
+    "static/media/sb6.png": "/Royalbengaltiger/static/media/sb6.39bc1e36ad48a0743e3a.png",
+    "static/media/6.png": "/Royalbengaltiger/static/media/6.51d200fbf853c0a03d38.png",
+    "static/media/8.png": "/Royalbengaltiger/static/media/8.982d2dae87aa00b75d34.png",
+    "static/media/sb9.png": "/Royalbengaltiger/static/media/sb9.9b37beb868c1e3567434.png",
+    "static/media/sb7.png": "/Royalbengaltiger/static/media/sb7.23c68a602190f08d2897.png",
+    "static/media/sb2.png": "/Royalbengaltiger/static/media/sb2.2234eb729869bad2ef4f.png",
+    "static/media/sb1.png": "/Royalbengaltiger/static/media/sb1.99a12ac2d98350bb5227.png",
+    "static/media/sb4.png": "/Royalbengaltiger/static/media/sb4.7cf2ff24e9a2703674f9.png",
+    "static/media/sb8.png": "/Royalbengaltiger/static/media/sb8.056a80a5e01193a54e8d.png",
+    "static/media/sb5.png": "/Royalbengaltiger/static/media/sb5.b23be19c0bef29678e35.png",
+    "static/media/sb3.png": "/Royalbengaltiger/static/media/sb3.80fad932c79eef6d6035.png",
+    "static/media/1.png": "/Royalbengaltiger/static/media/1.ee394d1d870764b36d9c.png",
+    "index.html": "/Royalbengaltiger/index.html",
+    "main.1bbb51ab.css.map": "/Royalbengaltiger/static/css/main.1bbb51ab.css.map",
+    "main.3cc729cc.js.map": "/Royalbengaltiger/static/js/main.3cc729cc.js.map",
+    "787.6486b64c.chunk.js.map": "/Royalbengaltiger/static/js/787.6486b64c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bbb51ab.css",
+    "static/js/main.3cc729cc.js"
+  ]
+}
